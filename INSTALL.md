@@ -14,13 +14,13 @@
 ### Способ 1: git (рекомендуется, легко обновлять)
 
 ```bash
-git clone https://github.com/<юзернейм>/humanizer-ru.git ~/.claude/skills/humanizer-ru
+git clone https://github.com/ponomarev-igor/humanizer-ru.git ~/.claude/skills/humanizer-ru
 ```
 
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/<юзернейм>/humanizer-ru.git $env:USERPROFILE\.claude\skills\humanizer-ru
+git clone https://github.com/ponomarev-igor/humanizer-ru.git $env:USERPROFILE\.claude\skills\humanizer-ru
 ```
 
 Обновление до новой версии — зайти в папку и `git pull`.
@@ -51,7 +51,7 @@ git clone https://github.com/<юзернейм>/humanizer-ru.git $env:USERPROFIL
 
 ## Что это НЕ делает
 
-Он не пишет «твоим голосом». Он только убирает машинные признаки. Голос и стиль это отдельная задача.
+По умолчанию скилл не пишет «твоим голосом», только убирает машинные признаки. Можно попросить подстроиться под свой стиль по образцам своих текстов («пиши как я»), но это отдельная команда, сама по себе не включается.
 
 ## Источник
 
