@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Атрибуция контента
-
-Код (скилл, скрипт сборки, веб-каркас) распространяется по лицензии MIT выше.
-
-Список признаков AI-текста и категории паттернов в `core/humanizer-ru.md`
-основаны на материале Wikipedia "Signs of AI writing"
-(https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing),
-доступном по лицензии Creative Commons Attribution-ShareAlike (CC BY-SA 4.0).
-Тексты, примеры и формулировки на русском написаны заново автором проекта.

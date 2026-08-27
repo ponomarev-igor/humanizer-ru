@@ -2,7 +2,10 @@
   <img alt="version" src="https://img.shields.io/badge/version-2.3.0-C4473A?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square">
   <img alt="language" src="https://img.shields.io/badge/язык-русский-6B6258?style=flat-square">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-supported-6B5B95?style=flat-square">
 </p>
+
+**Русский** · [English](./README.en.md)
 
 # Humanizer RU
 
@@ -96,7 +99,8 @@ node scripts/build-skill.mjs
 
 ## Источники и лицензия
 
-MIT, см. [`LICENSE`](./LICENSE). Список признаков AI-текста опирается на [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) (CC BY-SA 4.0). Языковое ядро это Нора Галь и Ильяхов/Сарычева, см. `core/humanizer-ru.md`.
+MIT, см. [`LICENSE`](./LICENSE). Атрибуция контента в [`NOTICE.md`](./NOTICE.md).
+Список признаков AI-текста опирается на [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) (CC BY-SA 4.0). Языковое ядро это Нора Галь и Ильяхов/Сарычева, см. `core/humanizer-ru.md`.
 
 <p align="center">
   <sub>Humanizer RU · 2.3.0</sub>
