@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-2.4.1-C4473A?style=flat-square">
+  <img alt="version" src="https://img.shields.io/badge/version-2.5.0-C4473A?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square">
   <img alt="target language" src="https://img.shields.io/badge/target-Russian-6B6258?style=flat-square">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-supported-6B5B95?style=flat-square">
@@ -150,5 +150,5 @@ the catalogue of AI-writing tells draws on
 `core/humanizer-ru.md`.
 
 <p align="center">
-  <sub>Humanizer RU · 2.4.1</sub>
+  <sub>Humanizer RU · 2.5.0</sub>
 </p>

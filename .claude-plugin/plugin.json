@@ -1,6 +1,6 @@
 {
   "name": "humanizer-ru",
-  "version": "2.4.1",
+  "version": "2.5.0",
   "description": "Убирает признаки AI-текста и канцелярит на русском, отдельный корректорский слой орфографии и пунктуации.",
   "author": {
     "name": "Igor Ponomarev"
