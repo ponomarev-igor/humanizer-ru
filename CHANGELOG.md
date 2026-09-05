@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.1 (2026-09-05)
+
+- **Плагин Claude Code**: `.claude-plugin/plugin.json` и `.claude-plugin/marketplace.json`, установка теперь в одну команду (`/plugin marketplace add` + `/plugin install`) вместо `git clone`. Старые способы (git, архив) остаются, ничего не сломано.
+
 ## 2.4.0 (2026-09-05)
 
 - **«Один тик это не приговор»**: правь при кластере совпадений, не при одном случайном слове.

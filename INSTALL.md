@@ -11,7 +11,18 @@
 
 ## Установка
 
-### Способ 1: git (рекомендуется, легко обновлять)
+### Способ 1: плагин Claude Code (рекомендуется, проще всего)
+
+Внутри Claude Code:
+
+```
+/plugin marketplace add ponomarev-igor/humanizer-ru
+/plugin install humanizer-ru@humanizer-ru
+```
+
+Обновление: `/plugin marketplace update humanizer-ru`, потом `/plugin update humanizer-ru`.
+
+### Способ 2: git (легко обновлять руками)
 
 ```bash
 git clone https://github.com/ponomarev-igor/humanizer-ru.git ~/.claude/skills/humanizer-ru
@@ -25,7 +36,7 @@ git clone https://github.com/ponomarev-igor/humanizer-ru.git $env:USERPROFILE\.c
 
 Обновление до новой версии: зайти в папку и `git pull`.
 
-### Способ 2: без git
+### Способ 3: без git
 
 1. Скачай архив репозитория с GitHub (кнопка Code → Download ZIP) и распакуй. Внутри папка `humanizer-ru`.
 2. Положи эту папку целиком сюда:
@@ -35,7 +46,7 @@ git clone https://github.com/ponomarev-igor/humanizer-ru.git $env:USERPROFILE\.c
 
 ### После установки
 
-Перезапусти Claude Code. Должно получиться: `~/.claude/skills/humanizer-ru/SKILL.md`.
+При установке через плагин ничего перезапускать не нужно, Claude Code подхватывает его сразу после команды `install`. При установке через git или архив перезапусти Claude Code, должно получиться: `~/.claude/skills/humanizer-ru/SKILL.md`.
 
 ## Как пользоваться
 
